@@ -23,5 +23,5 @@ print(B)
 ## Output:
 ![model](/invers-of-matrix.png)
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
